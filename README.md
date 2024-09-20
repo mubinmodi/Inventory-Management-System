@@ -1,47 +1,40 @@
 # Inventory Management System
 
-## Overview
+## Project Overview:
+ 
+ Inventory Management System developed by ASP.NET as front end and SQL SERVER as back end.The system used to keep truck of receives and sales transaction of business.
 
-This Inventory Management System is a robust ASP.NET Core MVC application designed to streamline inventory and stock management processes. It provides businesses with powerful tools to track products, manage orders, and optimize inventory levels.
+## Running Instruction:
 
-## Key Features
+ * Download the latest version with git (git clone Repo)    
+ * From the project folder,open the SQL.txt file. 
+ * Copy the scripts from text file.
+ * Open SQL Server  and paste scripts to new query window and execute.
+ * Run the application.
 
-- **Real-time Inventory Tracking**: Accurately monitor stock levels across multiple locations.
-- **Order Management**: Efficiently handle incoming orders, returns, and backorders.
-- **Product Catalog**: Maintain a comprehensive database of products with detailed information.
-- **Reorder Alerts**: Automatically generate notifications for low stock items.
-- **Reporting**: Generate insightful reports on inventory status, sales trends, and more.
-- **User Management**: Role-based access control for secure system usage.
 
-## Technology Stack
+## Project Approaches:
+ 
+ *	 Created and implemented using three layer architecture.
+ *	 Implemented form based authentication. 
+ *	 Form control validation, Printing and date time picker using JavaScript’.
+ *	 Optimizing code using reusability.
 
-- ASP.NET Core 2 MVC
-- Entity Framework Core
-- SQL Server
-- Bootstrap 4
-- jQuery
 
-## Getting Started
+ 
 
-### Prerequisites
 
-- Visual Studio 2019 or later
-- .NET Core SDK 2.0 or later
-- SQL Server 2016 or later
 
-### Installation
 
-1. Clone the repository:
 
-2. Open the solution in Visual Studio.
 
-3. Update the connection string in `appsettings.json` to point to your SQL Server instance.
 
-4. Run the following commands in Package Manager Console:
-   ```
-   Update-Database
-   ```
 
-5. Build and run the application.
+
+
+
+
+
+
 
 
